@@ -1,0 +1,131 @@
+[33mcommit f1f93d8018c6ec6ffe0b847f87c266c14af3b788[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ryan Harris <77218616+harrrith456@users.noreply.github.com>
+Date:   Fri Jan 22 22:07:33 2021 -0800
+
+    Venus is lovely this time of year
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex 1421424..3f67484 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -2,4 +2,4 @@[m [mCold and dry, but everything is my favorite color[m
+ The two moons may be a problem for Wolfman[m
+ But the Mummy will appreciate the lack of humidity[m
+ Might consider a base on Venus[m
+[31m-[m
+[32m+[m[32mI hear it is lovely this time of year[m
+
+[33mcommit e8d31dc1d7e336b1efdbcdef6575fb4a26a2ca57[m
+Author: Ryan Harris <77218616+harrrith456@users.noreply.github.com>
+Date:   Fri Jan 22 21:12:28 2021 -0800
+
+    Plans for Mars and a lonely Venus
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex 3d80691..1421424 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -2,8 +2,4 @@[m [mCold and dry, but everything is my favorite color[m
+ The two moons may be a problem for Wolfman[m
+ But the Mummy will appreciate the lack of humidity[m
+ Might consider a base on Venus[m
+[31m-I hear it is beautiful and full of love[m
+ [m
+[31m-I am still working on understanding 'exploring history'[m
+[31m-so lets make a few changes and see what happens[m
+[31m-One last line to check my head[m
+
+[33mcommit c07330a3d52f9e70ae475c18358a995d4c05fa19[m
+Author: Ryan Harris <77218616+harrrith456@users.noreply.github.com>
+Date:   Fri Jan 22 18:24:22 2021 -0800
+
+    Playing around with logs and differences
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex c49d5c6..3d80691 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -3,3 +3,7 @@[m [mThe two moons may be a problem for Wolfman[m
+ But the Mummy will appreciate the lack of humidity[m
+ Might consider a base on Venus[m
+ I hear it is beautiful and full of love[m
+[32m+[m
+[32m+[m[32mI am still working on understanding 'exploring history'[m
+[32m+[m[32mso lets make a few changes and see what happens[m
+[32m+[m[32mOne last line to check my head[m
+
+[33mcommit f73286a18e67e550454f1daeff4732cecb4e9d2d[m
+Author: Ryan Harris <77218616+harrrith456@users.noreply.github.com>
+Date:   Fri Jan 22 18:05:09 2021 -0800
+
+    Starting to fall in love with Venus
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex c09e552..c49d5c6 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -2,3 +2,4 @@[m [mCold and dry, but everything is my favorite color[m
+ The two moons may be a problem for Wolfman[m
+ But the Mummy will appreciate the lack of humidity[m
+ Might consider a base on Venus[m
+[32m+[m[32mI hear it is beautiful and full of love[m
+
+[33mcommit c440cb197322c007ae2f36de4935e765e3d0a336[m
+Author: Ryan Harris <77218616+harrrith456@users.noreply.github.com>
+Date:   Thu Jan 21 22:23:53 2021 -0800
+
+    Write plans to start a base on Venus
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex b36abfd..c09e552 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -1,3 +1,4 @@[m
+ Cold and dry, but everything is my favorite color[m
+ The two moons may be a problem for Wolfman[m
+ But the Mummy will appreciate the lack of humidity[m
+[32m+[m[32mMight consider a base on Venus[m
+
+[33mcommit 969676055c3e2cb7a2e13584fec29a0f55dad43f[m
+Author: Ryan Harris <77218616+harrrith456@users.noreply.github.com>
+Date:   Thu Jan 21 22:04:36 2021 -0800
+
+    Discuss concerns about Mars' climate for Mummy
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex 315bf3a..b36abfd 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -1,2 +1,3 @@[m
+ Cold and dry, but everything is my favorite color[m
+ The two moons may be a problem for Wolfman[m
+[32m+[m[32mBut the Mummy will appreciate the lack of humidity[m
+
+[33mcommit 8731b85f61e34eb67d12bcec59f3ba6942ec848d[m
+Author: Ryan Harris <77218616+harrrith456@users.noreply.github.com>
+Date:   Thu Jan 21 20:48:43 2021 -0800
+
+    Add concerns about effects of Mars' moons on Wolfman
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex 004faf9..315bf3a 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-Cold and dry, but it has all of my favorite colors[m
+[32m+[m[32mCold and dry, but everything is my favorite color[m
+[32m+[m[32mThe two moons may be a problem for Wolfman[m
+
+[33mcommit b218ae47d2f09915b8347875b00230c183614a32[m
+Author: Ryan Harris <77218616+harrrith456@users.noreply.github.com>
+Date:   Thu Jan 21 20:35:16 2021 -0800
+
+    Start notes on Mars as a base
+
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..004faf9[m
+[1m--- /dev/null[m
+[1m+++ b/mars.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mCold and dry, but it has all of my favorite colors[m
